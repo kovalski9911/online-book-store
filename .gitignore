@@ -117,3 +117,7 @@ dmypy.json
 
 # IDE
 .idea
+
+.tmp/
+.*
+!.gitignore
