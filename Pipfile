@@ -7,7 +7,7 @@ verify_ssl = true
 mypy = "==0.760"
 
 [packages]
-django = "==3.0.2"
+django = "==3.0.7"
 
 [requires]
 python_version = "3.8"
